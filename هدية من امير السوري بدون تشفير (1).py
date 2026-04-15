@@ -170,7 +170,7 @@ def amir():
 def main():
     clear()
     linex()
-    print(f"{W}❨{R}[1]{W}❩{B} OLD CLONE 2009-2014\n{W}❨{R}[2]{W}❩{R} EXIT")
+    print(f"{W}❨{R}[1]{W}❩{B} OLD CLONE 2009-2026\n{W}❨{R}[2]{W}❩{R} EXIT")
     linex()
     frsc = input(f"{W}❨{R}{W}❩{B} CHOICE : ")
     if frsc == "1":
@@ -251,7 +251,6 @@ def FBOLDIDSFUCKER(uid, pas, tl):
                     print(f"\n{B}[ @p7s7s OK ] {B}{uid} {R}● {B}{ps}");tlg = f'''❲ ⚜️ VIP ACCOUNT DROP ⚜️ ❳
 ━━━━━━━━━━━━━━━━━━
  منصة : Facebook
- تاريخ التسجيل : 2009 + 2014
  UID : {uid}
  PASS : {ps}
 ━━━━━━━━━━━━━━━━━━
@@ -265,7 +264,6 @@ def FBOLDIDSFUCKER(uid, pas, tl):
                     print(f"\n{B}[ @p7s7s OK ] {B}{uid} {R}● {B}{ps}");tlg = f'''❲ ⚜️ VIP ACCOUNT DROP ⚜️ ❳
 ━━━━━━━━━━━━━━━━━━
  منصة : Facebook
- تاريخ التسجيل : 2009 + 2014
  UID : {uid}
  PASS : {ps}
 ━━━━━━━━━━━━━━━━━━
